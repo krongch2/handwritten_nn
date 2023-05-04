@@ -2,6 +2,12 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
+'''
+https://www.kaggle.com/code/wwsalmon/simple-mnist-nn-from-scratch-numpy-no-tf-keras/notebook
+https://www.3blue1brown.com/lessons/backpropagation-calculus
+https://www.tomasbeuzen.com/deep-learning-with-pytorch/chapters/chapter4_neural-networks-pt2.html
+'''
+
 def load_data(ndev=1000):
     '''
     Loads data and splits into `42000 - ndev` inner train set and `ndev` inner test set
