@@ -6,6 +6,7 @@ import pandas as pd
 https://www.kaggle.com/code/wwsalmon/simple-mnist-nn-from-scratch-numpy-no-tf-keras/notebook
 https://www.3blue1brown.com/lessons/backpropagation-calculus
 https://www.tomasbeuzen.com/deep-learning-with-pytorch/chapters/chapter4_neural-networks-pt2.html
+https://www.kaggle.com/competitions/digit-recognizer/data
 '''
 
 def load_data(ndev=1000):
